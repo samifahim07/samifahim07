@@ -7,9 +7,10 @@
 
 - **🌱 I’m currently learning Python Machine Learning, Deep Learning, and Data Science.**
 
-- 📫 How to reach me **cfahimabrar@gmail.com**
+-
 
 <h3 align="left">Connect with me:</h3>
+ 📫 How to reach me **cfahimabrar@gmail.com**
 <p align="left">
 </p>
 
