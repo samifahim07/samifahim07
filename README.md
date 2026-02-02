@@ -3,13 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samifahim07&label=Profile%20views&color=0e75b6&style=flat" alt="samifahim07" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samifahim07" alt="samifahim07" /></a> </p>
+
 - 🔭 I’m currently working on **🌱 I’m currently learning Python Machine Learning, Deep Learning, and Data Science.**
 
 - 📫 How to reach me **cfahimabrar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/abrar sami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abrar sami" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
