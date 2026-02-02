@@ -2,7 +2,7 @@
 <h3 align="center">Passionate about Data Science and Artificial Intelligence.</h3>
 
 <img align="right" alt="coding-gif" width="400"
-
+src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nahiansiam&label=Profile%20views&color=0e75b6&style=flat" alt="nahiansiam" /> </p>
 
 - 🌱 I’m currently learning **Python Machine Learning, Deep Learning, and Data Science.**
