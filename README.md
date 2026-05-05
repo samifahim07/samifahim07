@@ -82,19 +82,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=samifahim07&theme=tokyonight&hide_border=true" />
 </p>
 
----
 
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="mailto:asamifahim007@gmail.com">
-   
-  <a href="https://github.com/samifahim07">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
 
 <p align="center">
   <i>"The goal is to turn data into information, and information into insight." — Carly Fiorina</i>
