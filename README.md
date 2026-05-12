@@ -15,17 +15,17 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 I'm **Fahim Abrar Chowdhury** — a Data Science & AI enthusiast based in Bangladesh
-- 🌱 Currently deepening my knowledge in **Python, Machine Learning, Deep Learning & Data Science**
-- 🧠 Exploring real-world applications of **Neural Networks, NLP, and Computer Vision**
-- 🛠️ Building projects that bridge **data insights** with **intelligent systems**
-- 💬 Ask me about **Python, ML algorithms, or getting started with AI**
-- 📫 Reach me at **asamifahim007@gmail.com**
-- ⚡ Fun fact: I believe **data tells stories** — we just need to learn how to listen
+-  I'm **Fahim Abrar Chowdhury** — a Data Science & AI enthusiast based in Bangladesh
+-  Currently deepening my knowledge in **Python, Machine Learning, Deep Learning & Data Science**
+-  Exploring real-world applications of **Neural Networks, NLP, and Computer Vision**
+-  Building projects that bridge **data insights** with **intelligent systems**
+-  Ask me about **Python, ML algorithms, or getting started with AI**
+-  Reach me at **asamifahim007@gmail.com**
+-  Fun fact: I believe **data tells stories** — we just need to learn how to listen
 
 ---
 
-## 🏆 GitHub Trophies
+##  GitHub Trophies
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -35,7 +35,7 @@
 
 ---
 
-## 🛠️ Languages & Tools
+##  Languages & Tools
 
 <p align="center">
   <!-- Languages -->
@@ -71,7 +71,7 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 
 <p align="center">
