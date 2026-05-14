@@ -21,7 +21,6 @@
 -  Building projects that bridge **data insights** with **intelligent systems**
 -  Ask me about **Python, ML algorithms, or getting started with AI**
 -  Reach me at **asamifahim007@gmail.com**
--  Fun fact: I believe **data tells stories** — we just need to learn how to listen
 
 ---
 
