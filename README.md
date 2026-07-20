@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=120&section=header&text=Fahim+Abrar+Chowdhury&fontSize=32&fontColor=ffffff&fontAlignY=65&desc=Data+Science+·+Machine+Learning+·+AI&descSize=13&descAlignY=85&animation=fadeIn">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=120&section=header&text=Fahim+Abrar+Chowdhury&fontSize=32&fontColor=ffffff&fontAlignY=65&desc=Data+Science+·+Machine+Learning+·+AI&descSize=13&descAlignY=85&animation=fadeIn" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=120&section=header&text=Fahim+Abrar+Chowdhury&fontSize=32&fontColor=ffffff&fontAlignY=65&desc=Data+Science+%C2%B7+Machine+Learning+%C2%B7+AI&descSize=13&descAlignY=85&animation=fadeIn">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=120&section=header&text=Fahim+Abrar+Chowdhury&fontSize=32&fontColor=ffffff&fontAlignY=65&desc=Data+Science+%C2%B7+Machine+Learning+%C2%B7+AI&descSize=13&descAlignY=85&animation=fadeIn" width="100%">
 </picture>
 
 </div>
@@ -64,9 +64,7 @@ Ask me about **Python, ML algorithms** or getting started with AI.
 
 <div align="center">
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=samifahim07&theme=flat&column=7&margin-w=8&no-bg=true&no-frame=true" />
-</a>
+[![trophy](https://github-profile-trophy.vercel.app/?username=samifahim07&theme=flat&column=7&margin-w=8&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -76,13 +74,13 @@ Ask me about **Python, ML algorithms** or getting started with AI.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=samifahim07&show_icons=true&hide_border=true&title_color=0E75B6&icon_color=0E75B6&text_color=1a1a1a&bg_color=f8f8f6&custom_title=samifahim07" width="48%" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samifahim07&layout=compact&hide_border=true&title_color=0E75B6&text_color=1a1a1a&bg_color=f8f8f6" width="38%" />
+[![Fahim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samifahim07&show_icons=true&hide_border=true&title_color=0E75B6&icon_color=0E75B6&text_color=1a1a1a&bg_color=f8f8f6&custom_title=samifahim07)](https://github.com/samifahim07)
+&nbsp;&nbsp;
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samifahim07&layout=compact&hide_border=true&title_color=0E75B6&text_color=1a1a1a&bg_color=f8f8f6)](https://github.com/samifahim07)
 
-<br/><br/>
+<br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=samifahim07&hide_border=true&background=f8f8f6&stroke=0E75B6&ring=0E75B6&fire=0E75B6&currStreakLabel=0E75B6&sideLabels=1a1a1a&dates=888888&currStreakNum=1a1a1a&sideNums=1a1a1a" width="55%" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=samifahim07&hide_border=true&background=f8f8f6&stroke=0E75B6&ring=0E75B6&fire=0E75B6&currStreakLabel=0E75B6&sideLabels=1a1a1a&dates=888888&currStreakNum=1a1a1a&sideNums=1a1a1a)](https://git.io/streak-stats)
 
 </div>
 
@@ -90,13 +88,11 @@ Ask me about **Python, ML algorithms** or getting started with AI.
 
 <div align="center">
 
-<sub>
-The goal is to turn data into information, and information into insight. — Carly Fiorina
-</sub>
+<sub>The goal is to turn data into information, and information into insight. — Carly Fiorina</sub>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=samifahim07&label=profile+views&color=0e75b6&style=flat-square" />
+![Profile Views](https://komarev.com/ghpvc/?username=samifahim07&label=profile+views&color=0e75b6&style=flat-square)
 
 </div>
 
