@@ -30,11 +30,40 @@ Ask me about **Python, ML algorithms** or getting started with AI.
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-1a1a1a?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-1a1a1a?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-1a1a1a?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-1a1a1a?style=flat-square&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-1a1a1a?style=flat-square&logo=html5&logoColor=white)
+## 02 — Stack
+
+### Languages
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css" />
+</p>
+
+### Machine Learning & AI
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,sklearn,jupyter" />
+</p>
+
+### Backend & Database
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=flask,django,mysql,postgres" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=oracle" />
+</p>
+
+### Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+</p>
+
+### Design
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=ps,ai" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=unity" />
+</p>
 
 **ML / AI**
 
