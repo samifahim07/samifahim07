@@ -10,9 +10,12 @@
 ---
 
 ```
-USERNAME  samifahim07              LOCATION  Dhaka, Bangladesh
-FOCUS     Data Science · ML · AI  EMAIL     asamifahim007@gmail.com
-STATUS    Open to projects         DEGREE    CSE Undergraduate
+USERNAME  samifahim07
+LOCATION  Dhaka, Bangladesh
+FOCUS     Data Science , ML , AI
+EMAIL     asamifahim007@gmail.com
+STATUS    Open to projects
+DEGREE    CSE Undergraduate
 ```
 
 ---
@@ -65,27 +68,6 @@ Ask me about **Python, ML algorithms** or getting started with AI.
 <img src="https://go-skill-icons.vercel.app/api/icons?i=unity" />
 </p>
 
-**ML / AI**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-1a1a1a?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-1a1a1a?style=flat-square&logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-1a1a1a?style=flat-square&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1a1a1a?style=flat-square&logo=scikit-learn&logoColor=white)
-![CatBoost](https://img.shields.io/badge/CatBoost-1a1a1a?style=flat-square&logo=yandex&logoColor=white)
-
-**Backend / DB**
-
-![Flask](https://img.shields.io/badge/Flask-1a1a1a?style=flat-square&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-1a1a1a?style=flat-square&logo=django&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-1a1a1a?style=flat-square&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-1a1a1a?style=flat-square&logo=oracle&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-1a1a1a?style=flat-square&logo=linux&logoColor=white)
-
-**Design / Other**
-
-![Illustrator](https://img.shields.io/badge/Illustrator-1a1a1a?style=flat-square&logo=adobeillustrator&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-1a1a1a?style=flat-square&logo=adobephotoshop&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-1a1a1a?style=flat-square&logo=unity&logoColor=white)
 
 ---
 
