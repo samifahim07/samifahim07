@@ -74,9 +74,9 @@ Ask me about **Python, ML algorithms** or getting started with AI.
 
 <div align="center">
 
-[![Fahim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samifahim07&show_icons=true&hide_border=true&title_color=0E75B6&icon_color=0E75B6&text_color=58a6ff&bg_color=00000000&custom_title=samifahim07)](https://github.com/samifahim07)
+[![Fahim's GitHub Stats](https://github-stats-extended.vercel.app/api?username=samifahim07&show_icons=true&hide_border=true&title_color=0E75B6&icon_color=0E75B6&text_color=58a6ff&bg_color=00000000&custom_title=samifahim07)](https://github.com/samifahim07)
 &nbsp;&nbsp;
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samifahim07&layout=compact&hide_border=true&title_color=0E75B6&text_color=58a6ff&bg_color=00000000)](https://github.com/samifahim07)
+[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=samifahim07&layout=compact&hide_border=true&title_color=0E75B6&text_color=58a6ff&bg_color=00000000)](https://github.com/samifahim07)
 
 <br/>
 
