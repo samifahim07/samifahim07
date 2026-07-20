@@ -33,15 +33,40 @@ I believe in continuous learning, clean code, and building impactful projects th
 ---
 
 ##  Technical Skills
+## 02 — Stack
 
-```text
-Languages        : Python • C • C++ • Java • SQL
-ML Frameworks    : Scikit-Learn • TensorFlow • PyTorch
-Data Science     : Pandas • NumPy • Matplotlib • Seaborn
-Backend          : Flask • Django
-Database         : MySQL • Oracle SQL
-Tools            : Git • GitHub • VS Code • Linux • Jupyter Notebook
-```
+### Languages
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css" />
+</p>
+
+### Machine Learning & AI
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,sklearn,jupyter" />
+</p>
+
+### Backend & Database
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=flask,django,mysql,postgres" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=oracle" />
+</p>
+
+### Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+</p>
+
+### Design
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=ps,ai" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=unity" />
+</p>
 
 ---
 
