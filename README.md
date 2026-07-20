@@ -1,102 +1,140 @@
-<div align="center">
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Fahim+Abrar+Chowdhury;Data+Science+%7C+Machine+Learning+Engineer;Artificial+Intelligence+Enthusiast;Always+Learning+Something+New" />
+</h1>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=120&section=header&text=Fahim+Abrar+Chowdhury&fontSize=32&fontColor=ffffff&fontAlignY=65&desc=Data+Science+%C2%B7+Machine+Learning+%C2%B7+AI&descSize=13&descAlignY=85&animation=fadeIn">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=120&section=header&text=Fahim+Abrar+Chowdhury&fontSize=32&fontColor=ffffff&fontAlignY=65&desc=Data+Science+%C2%B7+Machine+Learning+%C2%B7+AI&descSize=13&descAlignY=85&animation=fadeIn" width="100%">
-</picture>
+<h3 align="center">
+Building intelligent solutions with Data Science, Machine Learning & AI
+</h3>
 
-</div>
-
----
-
-```
-USERNAME  samifahim07              LOCATION  Dhaka, Bangladesh
-FOCUS     Data Science · ML · AI  EMAIL     asamifahim007@gmail.com
-STATUS    Open to projects         DEGREE    CSE Undergraduate
-```
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=samifahim07&label=Profile+Views&color=0E75B6&style=flat-square"/>
+  <img src="https://img.shields.io/github/followers/samifahim07?label=Followers&style=flat-square&color=0E75B6"/>
+  <img src="https://img.shields.io/github/stars/samifahim07?affiliations=OWNER&style=flat-square&color=0E75B6"/>
+</p>
 
 ---
 
-## 01 — About
+# 👨‍💻 About Me
 
-Currently deepening knowledge in **Python, Machine Learning, Deep Learning** and Data Science.
-Exploring real-world applications of **Neural Networks, NLP** and Computer Vision.
-Building projects that bridge **data insights** with intelligent systems.
-Ask me about **Python, ML algorithms** or getting started with AI.
-
----
-
-## 02 — Stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-1a1a1a?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-1a1a1a?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-1a1a1a?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-1a1a1a?style=flat-square&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-1a1a1a?style=flat-square&logo=html5&logoColor=white)
-
-**ML / AI**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-1a1a1a?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-1a1a1a?style=flat-square&logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-1a1a1a?style=flat-square&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1a1a1a?style=flat-square&logo=scikit-learn&logoColor=white)
-![CatBoost](https://img.shields.io/badge/CatBoost-1a1a1a?style=flat-square&logo=yandex&logoColor=white)
-
-**Backend / DB**
-
-![Flask](https://img.shields.io/badge/Flask-1a1a1a?style=flat-square&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-1a1a1a?style=flat-square&logo=django&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-1a1a1a?style=flat-square&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-1a1a1a?style=flat-square&logo=oracle&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-1a1a1a?style=flat-square&logo=linux&logoColor=white)
-
-**Design / Other**
-
-![Illustrator](https://img.shields.io/badge/Illustrator-1a1a1a?style=flat-square&logo=adobeillustrator&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-1a1a1a?style=flat-square&logo=adobephotoshop&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-1a1a1a?style=flat-square&logo=unity&logoColor=white)
+- 🇧🇩 Based in Bangladesh
+- 🎓 Computer Science Student
+- 🌱 Currently learning **Deep Learning, Computer Vision & NLP**
+- 🤖 Passionate about **Artificial Intelligence & Machine Learning**
+- 📊 Love solving real-world problems using data
+- 🚀 Building AI-powered applications with Python
+- 📫 **Email:** asamifahim007@gmail.com
 
 ---
 
-## 03 — Trophies
+# 🌐 Connect With Me
 
-<div align="center">
+<p align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=samifahim07&theme=flat&column=7&margin-w=8&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+<a href="https://github.com/samifahim07">
+<img src="https://skillicons.dev/icons?i=github" height="48"/>
+</a>
 
-</div>
+<a href="https://linkedin.com/in/YOUR-LINK">
+<img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
+</a>
 
----
+<a href="mailto:asamifahim007@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="48"/>
+</a>
 
-## 04 — Stats
-
-<div align="center">
-
-[![Fahim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samifahim07&show_icons=true&hide_border=true&title_color=0E75B6&icon_color=0E75B6&text_color=1a1a1a&bg_color=f8f8f6&custom_title=samifahim07)](https://github.com/samifahim07)
-&nbsp;&nbsp;
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samifahim07&layout=compact&hide_border=true&title_color=0E75B6&text_color=1a1a1a&bg_color=f8f8f6)](https://github.com/samifahim07)
-
-<br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=samifahim07&hide_border=true&background=f8f8f6&stroke=0E75B6&ring=0E75B6&fire=0E75B6&currStreakLabel=0E75B6&sideLabels=1a1a1a&dates=888888&currStreakNum=1a1a1a&sideNums=1a1a1a)](https://git.io/streak-stats)
-
-</div>
+</p>
 
 ---
 
-<div align="center">
+# 💻 Tech Stack
 
-<sub>The goal is to turn data into information, and information into insight. — Carly Fiorina</sub>
+### Languages
 
-<br/><br/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,html,css,js" />
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=samifahim07&label=profile+views&color=0e75b6&style=flat-square)
+### AI • Data Science
 
-</div>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,sklearn,jupyter" />
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=80&section=footer">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=80&section=footer" width="100%">
-</picture>
+### Backend & Database
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=flask,django,mysql,postgresql" />
+</p>
+
+### Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+</p>
+
+---
+
+# 🚀 Currently Exploring
+
+- Deep Learning
+- Neural Networks
+- Computer Vision
+- Natural Language Processing
+- Machine Learning Deployment
+- REST APIs with Flask
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=samifahim07&show_icons=true&theme=default&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samifahim07&layout=compact&theme=default&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=samifahim07&theme=default&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=samifahim07&theme=flat&no-frame=true&column=7"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=samifahim07&theme=github-compact"/>
+
+</p>
+
+---
+
+# ✨ Quote
+
+<p align="center">
+
+> *"The best way to predict the future is to invent it."*  
+> **— Alan Kay**
+
+</p>
+
+---
+
+<p align="center">
+⭐ Thanks for visiting my profile! ⭐
+</p>
