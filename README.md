@@ -74,13 +74,13 @@ Ask me about **Python, ML algorithms** or getting started with AI.
 
 <div align="center">
 
-[![Fahim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samifahim07&show_icons=true&hide_border=true&title_color=0E75B6&icon_color=0E75B6&text_color=1a1a1a&bg_color=f8f8f6&custom_title=samifahim07)](https://github.com/samifahim07)
+[![Fahim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samifahim07&show_icons=true&hide_border=true&title_color=0E75B6&icon_color=0E75B6&text_color=58a6ff&bg_color=00000000&custom_title=samifahim07)](https://github.com/samifahim07)
 &nbsp;&nbsp;
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samifahim07&layout=compact&hide_border=true&title_color=0E75B6&text_color=1a1a1a&bg_color=f8f8f6)](https://github.com/samifahim07)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samifahim07&layout=compact&hide_border=true&title_color=0E75B6&text_color=58a6ff&bg_color=00000000)](https://github.com/samifahim07)
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=samifahim07&hide_border=true&background=f8f8f6&stroke=0E75B6&ring=0E75B6&fire=0E75B6&currStreakLabel=0E75B6&sideLabels=1a1a1a&dates=888888&currStreakNum=1a1a1a&sideNums=1a1a1a)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=samifahim07&hide_border=true&background=00000000&stroke=0E75B6&ring=0E75B6&fire=0E75B6&currStreakLabel=0E75B6&sideLabels=888888&dates=888888&currStreakNum=0E75B6&sideNums=cccccc)](https://git.io/streak-stats)
 
 </div>
 
@@ -99,4 +99,4 @@ Ask me about **Python, ML algorithms** or getting started with AI.
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=80&section=footer">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=80&section=footer" width="100%">
-</picture>   
+</picture>
