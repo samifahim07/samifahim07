@@ -71,16 +71,6 @@ Ask me about **Python, ML algorithms** or getting started with AI.
 
 ---
 
-## 03 — Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=samifahim07&theme=flat&column=7&margin-w=8&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## 04 — Stats
 
 <div align="center">
@@ -97,11 +87,6 @@ Ask me about **Python, ML algorithms** or getting started with AI.
 
 ---
 
-<div align="center">
-
-<sub>The goal is to turn data into information, and information into insight. — Carly Fiorina</sub>
-
-<br/><br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=samifahim07&label=profile+views&color=0e75b6&style=flat-square)
 
