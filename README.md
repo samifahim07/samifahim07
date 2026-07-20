@@ -33,7 +33,6 @@ I believe in continuous learning, clean code, and building impactful projects th
 ---
 
 ##  Technical Skills
-## 02 — Stack
 
 ### Languages
 
