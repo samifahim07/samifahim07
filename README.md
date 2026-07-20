@@ -20,7 +20,7 @@ DEGREE    CSE Undergraduate
 
 ---
 
-## 01 — About
+## About
 
 Currently deepening knowledge in **Python, Machine Learning, Deep Learning** and Data Science.
 Exploring real-world applications of **Neural Networks, NLP** and Computer Vision.
@@ -29,7 +29,7 @@ Ask me about **Python, ML algorithms** or getting started with AI.
 
 ---
 
-## 02 — Stack
+##  Stack
 
 **Languages**
 
@@ -71,7 +71,7 @@ Ask me about **Python, ML algorithms** or getting started with AI.
 
 ---
 
-## 04 — Stats
+## Stats
 
 <div align="center">
 
