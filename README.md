@@ -14,19 +14,19 @@ Building intelligent solutions with Data Science, Machine Learning & AI
 
 ---
 
-# 👨‍💻 About Me
+#  About Me
 
 - 🇧🇩 Based in Bangladesh
-- 🎓 Computer Science Student
-- 🌱 Currently learning **Deep Learning, Computer Vision & NLP**
-- 🤖 Passionate about **Artificial Intelligence & Machine Learning**
-- 📊 Love solving real-world problems using data
-- 🚀 Building AI-powered applications with Python
-- 📫 **Email:** asamifahim007@gmail.com
+-  Computer Science Student
+-  Currently learning **Deep Learning, Computer Vision & NLP**
+-  Passionate about **Artificial Intelligence & Machine Learning**
+-  Love solving real-world problems using data
+-  Building AI-powered applications with Python
+-  **Email:** asamifahim007@gmail.com
 
 ---
 
-# 🌐 Connect With Me
+#  Connect With Me
 
 <p align="center">
 
@@ -46,7 +46,7 @@ Building intelligent solutions with Data Science, Machine Learning & AI
 
 ---
 
-# 💻 Tech Stack
+#  Tech Stack
 
 ### Languages
 
@@ -75,7 +75,7 @@ Building intelligent solutions with Data Science, Machine Learning & AI
 
 ---
 
-# 🚀 Currently Exploring
+#  Currently Exploring
 
 - Deep Learning
 - Neural Networks
@@ -86,7 +86,7 @@ Building intelligent solutions with Data Science, Machine Learning & AI
 
 ---
 
-# 📊 GitHub Statistics
+#  GitHub Statistics
 
 <p align="center">
 
@@ -104,7 +104,7 @@ Building intelligent solutions with Data Science, Machine Learning & AI
 
 ---
 
-# 🏆 GitHub Trophies
+#  GitHub Trophies
 
 <p align="center">
 
@@ -114,7 +114,7 @@ Building intelligent solutions with Data Science, Machine Learning & AI
 
 ---
 
-# 📈 Contribution Graph
+# Contribution Graph
 
 <p align="center">
 
@@ -122,19 +122,8 @@ Building intelligent solutions with Data Science, Machine Learning & AI
 
 </p>
 
----
 
-# ✨ Quote
 
 <p align="center">
-
-> *"The best way to predict the future is to invent it."*  
-> **— Alan Kay**
-
-</p>
-
----
-
-<p align="center">
-⭐ Thanks for visiting my profile! ⭐
+ Thanks for visiting my profile! 
 </p>
