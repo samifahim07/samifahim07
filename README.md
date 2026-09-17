@@ -2,11 +2,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Fahim%20Abrar%20Chowdhury&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Machine%20Learning%20Engineer%20%7C%20AI%20Enthusiast%20%7C%20CS%20Undergraduate&descAlignY=55&descSize=16" />
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6CF7F7&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;AI+%26+Data+Science+Enthusiast;CS+Undergraduate+from+Bangladesh;Building+real-world+ML+solutions" />
+
 </div>
 
 ---
 
-##  Hey, I'm Fahim
+## 👋 Hey, I'm Fahim
 
 I'm a **Computer Science undergraduate from Bangladesh** who got hooked on Machine Learning the moment I realized data could predict the future — or at least try to.
 
@@ -18,19 +20,27 @@ Right now I'm diving deep into **LLMs, Deep Learning, and end-to-end ML deployme
 
 ---
 
-##  What I'm Working On
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=samifahim07&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+</div>
+
+---
+
+## 🔥 What I'm Working On
 
 ````text
-  End-to-End ML pipelines with real-world datasets
-  LLMs & Generative AI exploration
-  Deploying AI apps with Flask + Docker
-  Predictive Analytics & Data Visualization
-  Learning MLOps & Cloud Deployment
+🧠  End-to-End ML pipelines with real-world datasets
+🤖  LLMs & Generative AI exploration
+🚀  Deploying AI apps with Flask + Docker
+📊  Predictive Analytics & Data Visualization
+☁️  Learning MLOps & Cloud Deployment
 ````
 
 ---
 
-##  Tech Stack
+## 🛠️ Tech Stack
 
 **Languages**
 
@@ -75,9 +85,17 @@ Right now I'm diving deep into **LLMs, Deep Learning, and end-to-end ML deployme
 
 </div>
 
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=samifahim07&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
 ---
 
-##  Featured Projects
+## 🚀 Featured Projects
 
 | Project | Description | Tech |
 |---|---|---|
@@ -90,12 +108,20 @@ Right now I'm diving deep into **LLMs, Deep Learning, and end-to-end ML deployme
 
 ---
 
-##  Find Me Online
+## 🌐 Find Me Online
 
 - **Email:** asamifahim007@gmail.com
 - **GitHub:** [github.com/samifahim07](https://github.com/samifahim07)
 - **Kaggle:** [kaggle.com/fahimabrarsami](https://www.kaggle.com/fahimabrarsami)
 - **HuggingFace:** [huggingface.co/fahimlabs](https://huggingface.co/fahimlabs)
+
+---
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/samifahim07/samifahim07/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
 
 ---
 
