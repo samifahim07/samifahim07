@@ -6,7 +6,7 @@
 
 ---
 
-## 👋 Hey, I'm Fahim
+##  Hey, I'm Fahim
 
 I'm a **Computer Science undergraduate from Bangladesh** who got hooked on Machine Learning the moment I realized data could predict the future — or at least try to.
 
@@ -18,19 +18,19 @@ Right now I'm diving deep into **LLMs, Deep Learning, and end-to-end ML deployme
 
 ---
 
-## 🔥 What I'm Working On
+##  What I'm Working On
 
 ````text
-🧠  End-to-End ML pipelines with real-world datasets
-🤖  LLMs & Generative AI exploration
-🚀  Deploying AI apps with Flask + Docker
-📊  Predictive Analytics & Data Visualization
-☁️  Learning MLOps & Cloud Deployment
+  End-to-End ML pipelines with real-world datasets
+  LLMs & Generative AI exploration
+  Deploying AI apps with Flask + Docker
+  Predictive Analytics & Data Visualization
+  Learning MLOps & Cloud Deployment
 ````
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Languages**
 Python, C, C++, Java, HTML, CSS
@@ -63,7 +63,7 @@ Git, GitHub, VS Code, Linux, Photoshop, Illustrator
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 | Project | Description | Tech |
 |---|---|---|
@@ -76,7 +76,7 @@ Git, GitHub, VS Code, Linux, Photoshop, Illustrator
 
 ---
 
-## 🌐 Find Me Online
+##  Find Me Online
 
 - **Email:** asamifahim007@gmail.com
 - **GitHub:** [github.com/samifahim07](https://github.com/samifahim07)
