@@ -33,16 +33,30 @@ Right now I'm diving deep into **LLMs, Deep Learning, and end-to-end ML deployme
 ##  Tech Stack
 
 **Languages**
-Python, C, C++, Java, HTML, CSS
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css" />
+</p>
 
 **Machine Learning & AI**
-TensorFlow, PyTorch, Pandas, NumPy, Scikit-learn, Jupyter
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,sklearn,jupyter" />
+</p>
 
 **Backend & Database**
-Flask, Django, MySQL, PostgreSQL, Oracle
+
+<p>
+<img src="https://skillicons.dev/icons?i=flask,django,mysql,postgres" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=oracle" />
+</p>
 
 **Tools & Design**
-Git, GitHub, VS Code, Linux, Photoshop, Illustrator
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,ps,ai" />
+</p>
 
 ---
 
