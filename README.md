@@ -1,88 +1,92 @@
-#  About Me
+<div align="center">
 
-I'm **Fahim Abrar Chowdhury**, a passionate **Computer Science undergraduate** from **Bangladesh** with a strong interest in **Data Science, Machine Learning, and Artificial Intelligence**. I enjoy building intelligent systems that transform data into meaningful insights and solve real-world problems.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Fahim%20Abrar%20Chowdhury&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Machine%20Learning%20Engineer%20%7C%20AI%20Enthusiast%20%7C%20CS%20Undergraduate&descAlignY=55&descSize=16" />
 
-Currently, I'm strengthening my skills in **Machine Learning, Deep Learning, Computer Vision, Natural Language Processing (NLP), Large Language Models (LLMs), and MLOps**, while developing practical AI-powered applications using modern Python technologies.
-
-I believe in continuous learning, clean code, and building impactful projects that combine innovation with real-world usability.
+</div>
 
 ---
 
-##  Core Interests
+## 👋 Hey, I'm Fahim
 
--  Artificial Intelligence
--  Data Science & Analytics
--  Machine Learning
--  Deep Learning
--  Computer Vision
--  Natural Language Processing (NLP)
--  Flask API Development
--  MLOps & AI Deployment
+I'm a **Computer Science undergraduate from Bangladesh** who got hooked on Machine Learning the moment I realized data could predict the future — or at least try to.
 
----
+What started as curiosity turned into a habit of building. I've predicted IPL boundaries, forecasted stock directions on the Dhaka Stock Exchange, analyzed customer churn, and classified everything from credit scores to handwritten images. Each project taught me something the classroom couldn't.
 
-##  Currently Working On
+Right now I'm diving deep into **LLMs, Deep Learning, and end-to-end ML deployment** — because building a model is only half the job. Getting it into the real world is the other half.
 
--  End-to-End Machine Learning Projects
--  Deep Learning with TensorFlow & PyTorch
--  AI-powered Flask APIs
--  Predictive Analytics & Data Visualization
--  Exploring LLMs & Generative AI
--  Learning MLOps, Docker & Cloud Deployment
+> *"Every dataset has a story. I just help it speak."*
 
 ---
 
-##  Technical Skills
+## 🔥 What I'm Working On
 
-### Languages
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css" />
-</p>
-
-### Machine Learning & AI
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,sklearn,jupyter" />
-</p>
-
-### Backend & Database
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=flask,django,mysql,postgres" />
-<img src="https://go-skill-icons.vercel.app/api/icons?i=oracle" />
-</p>
-
-### Tools
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
-</p>
-
-### Design
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=ps,ai" />
-<img src="https://go-skill-icons.vercel.app/api/icons?i=unity" />
-</p>
+````text
+🧠  End-to-End ML pipelines with real-world datasets
+🤖  LLMs & Generative AI exploration
+🚀  Deploying AI apps with Flask + Docker
+📊  Predictive Analytics & Data Visualization
+☁️  Learning MLOps & Cloud Deployment
+````
 
 ---
 
-##  Personal Strengths
+## 🛠️ Tech Stack
 
--  Strong analytical thinking and problem-solving mindset
--  Passionate about building AI solutions for real-world challenges
--  Fast learner with a commitment to continuous improvement
--  Detail-oriented and focused on writing clean, maintainable code
--  Enjoy collaborating, sharing knowledge, and learning from others
--  Dedicated to becoming a professional AI & Machine Learning Engineer
+**Languages**
+Python, C, C++, Java, HTML, CSS
+
+**Machine Learning & AI**
+TensorFlow, PyTorch, Pandas, NumPy, Scikit-learn, Jupyter
+
+**Backend & Database**
+Flask, Django, MySQL, PostgreSQL, Oracle
+
+**Tools & Design**
+Git, GitHub, VS Code, Linux, Photoshop, Illustrator
 
 ---
 
-##  Connect With Me
+## 📊 GitHub Stats
 
--  Email: **asamifahim007@gmail.com**
--  GitHub: **github.com/samifahim07**
+<div align="center">
 
-> **"Learning never stops. Every project is another step toward becoming a better AI Engineer."**
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=samifahim07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samifahim07&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=samifahim07&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| [IPL Boundary Prediction](https://github.com/samifahim07/IPL-Boundary-Prediction) | Predicts boundary likelihood per ball using match context | LightGBM, Python |
+| [Bank Credit Score Prediction](https://github.com/samifahim07/Bank_Credit_Score-Prediction-) | ML model to classify customer credit risk | Scikit-learn, Pandas |
+| [Laptop Price Predictor](https://github.com/samifahim07/Laptop-Price-predictor) | Predicts laptop prices from hardware specs | Random Forest, Python |
+| [Customer Churn Prediction](https://github.com/samifahim07/AI-Powered-Customer-Churn-Prediction-and-High-Risk-Customer-Retention-Analysis) | Identifies high-risk customers likely to churn | XGBoost, EDA |
+| [Titanic ML Comparative Study](https://github.com/samifahim07/Surviving-the-Algorithm-A-Comparative-ML-Study-of-Classification-Models-Using-Titanic-Dataset) | Compares Logistic Regression, Decision Tree, Random Forest | Scikit-learn |
+| [Deep Learning Image Processing](https://github.com/samifahim07/Basic-Image-processing-using-Deep-learning) | Basic CV tasks using deep neural networks | TensorFlow, Keras |
+
+---
+
+## 🌐 Find Me Online
+
+- **Email:** asamifahim007@gmail.com
+- **GitHub:** [github.com/samifahim07](https://github.com/samifahim07)
+- **Kaggle:** [kaggle.com/fahimabrarsami](https://www.kaggle.com/fahimabrarsami)
+- **HuggingFace:** [huggingface.co/fahimlabs](https://huggingface.co/fahimlabs)
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+
+</div>
