@@ -53,19 +53,6 @@ My work spans **predictive modeling, explainable AI, computer vision, and end-to
 
 **Also working with:** XGBoost · LightGBM · CatBoost · Streamlit · SHAP · LIME · Matplotlib · Seaborn · SQL · REST APIs
 
-## Featured Projects
-
-| Project | What it does | Key technologies |
-| :--- | :--- | :--- |
-| [IPL Boundary Prediction](https://github.com/samifahim07/IPL-Boundary-Prediction) | Predicts the likelihood of a boundary using ball-by-ball match context. | Python, LightGBM |
-| [Bank Credit Score Prediction](https://github.com/samifahim07/Bank_Credit_Score-Prediction-) | Classifies customer credit-score categories from financial attributes. | Python, Scikit-learn, Pandas |
-| [Laptop Price Predictor](https://github.com/samifahim07/Laptop-Price-predictor) | Estimates laptop prices from hardware specifications. | Python, Random Forest |
-| [Customer Churn Prediction](https://github.com/samifahim07/AI-Powered-Customer-Churn-Prediction-and-High-Risk-Customer-Retention-Analysis) | Identifies customers with elevated churn risk and supports retention analysis. | Python, XGBoost, EDA |
-| [Titanic ML Comparative Study](https://github.com/samifahim07/Surviving-the-Algorithm-A-Comparative-ML-Study-of-Classification-Models-Using-Titanic-Dataset) | Compares multiple classification approaches on the Titanic dataset. | Scikit-learn, Python |
-| [Deep Learning Image Processing](https://github.com/samifahim07/Basic-Image-processing-using-Deep-learning) | Explores image-processing tasks with deep learning. | TensorFlow, Keras |
-
-> Explore more experiments and applications in my [GitHub repositories](https://github.com/samifahim07?tab=repositories).
-
 ## Engineering Interests
 
 ```mermaid
