@@ -12,7 +12,7 @@
 
 ---
 
-## `01 / THE PERSON BEHIND THE MODELS`
+## 👋 The Person Behind the Models
 
 Hey, I'm **Fahim** — a Computer Science undergraduate at **East West University, Bangladesh**. I love the space where **data, intelligent algorithms, and useful software** meet.
 
@@ -20,26 +20,9 @@ I've explored machine learning across sports, finance, customer analytics, healt
 
 > **My philosophy:** Build it. Validate it. Explain it. Ship it.
 >
-> *“Every dataset has a story. I just help it speak.”*
+> *"Every dataset has a story. I just help it speak."*
 
-## `02 / AN AI ENGINEER'S TERMINAL`
-
-```text
-fahim@ai-lab:~$ whoami
-  Computer Science Undergraduate | Applied AI Builder
-
-fahim@ai-lab:~$ cat interests.txt
-  Machine Learning       > Prediction & decision support
-  Deep Learning          > Computer vision & neural networks
-  Explainable AI         > SHAP, LIME & interpretability
-  AI Applications        > APIs, interactive apps & deployment
-  Next frontier          > LLMs, agentic AI & MLOps
-
-fahim@ai-lab:~$ echo $MISSION
-  "Make machine learning understandable, useful, and accessible."
-```
-
-## `03 / TOOLKIT`
+## 🧰 Toolkit
 
 <div align="center">
 
@@ -65,7 +48,7 @@ fahim@ai-lab:~$ echo $MISSION
 
 **Additional tools:** `XGBoost` · `LightGBM` · `CatBoost` · `Streamlit` · `SHAP` · `LIME` · `Matplotlib` · `Seaborn` · `SQL` · `REST APIs`
 
-## `04 / HOW I THINK ABOUT AI SYSTEMS`
+## 🧠 How I Think About AI Systems
 
 <!-- Native GitHub Mermaid diagram. No analytics API, token, or refresh needed. -->
 
@@ -90,7 +73,7 @@ flowchart TD
     class I,J,K output;
 ```
 
-## `05 / PROBLEMS I LIKE SOLVING`
+## 🎯 Problems I Like Solving
 
 | Area | The questions that interest me |
 |:--|:--|
@@ -101,21 +84,21 @@ flowchart TD
 | **Responsible ML Engineering** | Is the model evaluated fairly, reproducibly, and without leakage? |
 | **Generative & Agentic AI** | How can LLMs work with tools and structured knowledge? |
 
-## `06 / ENGINEERING PRINCIPLES`
+## ⚙️ Engineering Principles
 
 ```text
 [01] PROBLEM FIRST       A useful question matters more than a fancy model.
 [02] TRUST THE SPLIT     Keep training and evaluation honestly separated.
 [03] COMPARE BASELINES   Complexity must earn its place.
-[04] EXPLAIN DECISIONS  Understand errors and feature influence.
-[05] BUILD FOR HUMANS   A model is more useful when people can use it.
-[06] KEEP ITERATING     Every experiment should teach something.
+[04] EXPLAIN DECISIONS   Understand errors and feature influence.
+[05] BUILD FOR HUMANS    A model is more useful when people can use it.
+[06] KEEP ITERATING      Every experiment should teach something.
 ```
 
-## `07 / EXPLORATION LAB`
+## 🔬 Exploration Lab
 
 <details>
-<summary><b>01 — Large Language Models & Agentic AI</b></summary>
+<summary><b>Large Language Models & Agentic AI</b></summary>
 
 <br>
 
@@ -124,7 +107,7 @@ Exploring embeddings, retrieval-augmented generation (RAG), prompting, tool call
 </details>
 
 <details>
-<summary><b>02 — Deep Learning & Computer Vision</b></summary>
+<summary><b>Deep Learning & Computer Vision</b></summary>
 
 <br>
 
@@ -133,7 +116,7 @@ Working with neural networks, transfer learning, image classification, training 
 </details>
 
 <details>
-<summary><b>03 — Explainability & Reliable Evaluation</b></summary>
+<summary><b>Explainability & Reliable Evaluation</b></summary>
 
 <br>
 
@@ -142,7 +125,7 @@ Interested in SHAP, LIME, imbalanced learning, calibration, failure analysis, an
 </details>
 
 <details>
-<summary><b>04 — Deployment & MLOps</b></summary>
+<summary><b>Deployment & MLOps</b></summary>
 
 <br>
 
@@ -150,7 +133,7 @@ Learning how to move beyond notebooks using Flask, FastAPI, Docker, GitHub Actio
 
 </details>
 
-## `08 / LET'S BUILD SOMETHING USEFUL`
+## 🤝 Let's Build Something Useful
 
 Open to **AI/ML internships, research collaborations, open-source learning, and practical AI products**.
 
