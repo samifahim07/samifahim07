@@ -6,7 +6,6 @@
 
 [![Profile views](https://komarev.com/ghpvc/?username=samifahim07&label=Profile%20Views&color=0ea5e9&style=for-the-badge)](https://github.com/samifahim07)
 [![GitHub followers](https://img.shields.io/github/followers/samifahim07?label=Followers&style=for-the-badge&logo=github&color=1d4ed8)](https://github.com/samifahim07?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/samifahim07?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&label=Stars&color=0891b2)](https://github.com/samifahim07?tab=repositories)
 
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:asamifahim007@gmail.com)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Explore%20Notebooks-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/fahimabrarsami)
