@@ -1,6 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:2563EB,100:06B6D4&height=200&section=header&text=Fahim%20Abrar%20Chowdhury&fontSize=38&fontColor=FFFFFF&fontAlignY=42&desc=Building%20Intelligent%20Systems%20From%20Real-World%20Data&descAlignY=62&descSize=17" alt="Fahim Abrar Chowdhury" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=220&section=header&text=Fahim%20Abrar%20Chowdhury&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=37&desc=Building%20Intelligent%20Systems%20From%20Real-World%20Data&descAlignY=58&descSize=17" alt="Fahim Abrar Chowdhury" />
+
+<a href="https://github.com/samifahim07">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=760&height=50&lines=Machine+Learning+%C2%B7+Deep+Learning;Explainable+AI+with+SHAP+%26+LIME;From+Notebook+to+Deployed+Application;Build+it.+Validate+it.+Explain+it.+Ship+it." alt="Typing animation" />
+</a>
 
 ### Machine Learning · Deep Learning · Explainable AI · AI Engineering
 
@@ -47,6 +51,16 @@ I've explored machine learning across sports, finance, customer analytics, healt
 </div>
 
 **Additional tools:** `XGBoost` · `LightGBM` · `CatBoost` · `Streamlit` · `SHAP` · `LIME` · `Matplotlib` · `Seaborn` · `SQL` · `REST APIs`
+
+## Data Playground
+
+<div align="center">
+
+<img src="assets/data-playground.svg" width="100%" alt="Animated data playground: fitting a pattern, learning from errors, comparing models" />
+
+</div>
+
+
 
 ## Problems I Like Solving
 
@@ -120,6 +134,15 @@ Open to **AI/ML internships, research collaborations, open-source learning, and 
 
 *Curiosity → Experiments → Understanding → Impact*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:2563EB,100:06B6D4&height=60&section=footer" alt="Footer" />
+<img src="assets/neural-network.svg" width="100%" alt="Animated neural network showing a forward pass from input features to prediction" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samifahim07/samifahim07/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samifahim07/samifahim07/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/samifahim07/samifahim07/output/github-contribution-grid-snake.svg" />
+</picture>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=100&section=footer" alt="Footer wave" />
 
 </div>
+ sob animated jinish shorai daw
