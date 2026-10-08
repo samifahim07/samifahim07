@@ -157,7 +157,11 @@ Open to **AI/ML internships, research collaborations, open-source learning, and 
 
 *Curiosity → Experiments → Understanding → Impact*
 
-<img src="https://raw.githubusercontent.com/samifahim07/samifahim07/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samifahim07/samifahim07/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samifahim07/samifahim07/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/samifahim07/samifahim07/output/github-contribution-grid-snake.svg" />
+</picture>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=100&section=footer" alt="Footer wave" />
 
