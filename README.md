@@ -7,7 +7,6 @@
 [![Profile views](https://komarev.com/ghpvc/?username=samifahim07&label=Profile%20Views&color=0ea5e9&style=for-the-badge)](https://github.com/samifahim07)
 [![GitHub followers](https://img.shields.io/github/followers/samifahim07?label=Followers&style=for-the-badge&logo=github&color=1d4ed8)](https://github.com/samifahim07?tab=followers)
 
-
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:asamifahim007@gmail.com)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Explore%20Notebooks-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/fahimabrarsami)
 [![Hugging%20Face](https://img.shields.io/badge/Hugging%20Face-Models%20%26%20Spaces-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/fahimlabs)
@@ -66,18 +65,68 @@ flowchart LR
     G --> H[Deployment & Monitoring]
 ```
 
-## GitHub Analytics
+## GitHub Contribution Streak
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=samifahim07&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub profile statistics" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samifahim07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" />
-
 <img width="75%" src="https://streak-stats.demolab.com?user=samifahim07&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=samifahim07&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph" />
+</div>
+
+## AI Engineering Playground
+
+<div align="center">
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Predictive%20Systems-2563EB?style=for-the-badge)
+![Explainable AI](https://img.shields.io/badge/Explainable%20AI-SHAP%20%26%20LIME-0891B2?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-Deep%20Learning-7C3AED?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-Exploring-DB2777?style=for-the-badge)
+![MLOps](https://img.shields.io/badge/MLOps-Learning-0F766E?style=for-the-badge)
 
 </div>
+
+### How I Build Intelligent Systems
+
+| Phase | What I Focus On |
+|:--|:--|
+| **Discover** | Define a useful problem and audit data quality |
+| **Prepare** | Clean data, engineer features, and prevent leakage |
+| **Experiment** | Build baselines, compare models, and tune carefully |
+| **Explain** | Interpret predictions with SHAP, LIME, and error analysis |
+| **Ship** | Build an API or interactive app and deploy it |
+| **Improve** | Track feedback, monitor performance, and iterate |
+
+## Currently Exploring
+
+<details>
+<summary><b>Large Language Models & Agentic AI</b></summary>
+<br>
+Prompt engineering, retrieval-augmented generation (RAG), embeddings, tool use, and AI-powered workflows.
+</details>
+
+<details>
+<summary><b>Deep Learning & Computer Vision</b></summary>
+<br>
+Transfer learning, image classification, neural-network training, and robust evaluation.
+</details>
+
+<details>
+<summary><b>Deployment & MLOps</b></summary>
+<br>
+FastAPI/Flask services, Docker fundamentals, CI/CD with GitHub Actions, model versioning, and cloud deployment.
+</details>
+
+## Open to Building Together
+
+<div align="center">
+
+[![Collaborate on AI](https://img.shields.io/badge/AI%20Research-Let's%20Collaborate-2563EB?style=for-the-badge&logo=github&logoColor=white)](mailto:asamifahim007@gmail.com?subject=AI%20Research%20Collaboration)
+[![Explore Repositories](https://img.shields.io/badge/Explore-My%20Repositories-0F172A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samifahim07?tab=repositories)
+[![Kaggle Notebooks](https://img.shields.io/badge/Explore-Kaggle%20Notebooks-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/fahimabrarsami)
+
+</div>
+
+---
 
 ## Let's Connect
 
