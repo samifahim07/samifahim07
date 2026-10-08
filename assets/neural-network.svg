@@ -1,0 +1,229 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 310" width="900" height="310" role="img" aria-label="Animated neural network showing a forward pass from input features to prediction" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo5MTJjYzgzYy0yYmQyLTQ5ZDctOTcwMS1kNDlhMjgwNDU4NjcAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaMzED/Homn9ducGSP7FHB80AAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDpmZTA3YjBiNS1jZGFkLTQyMWQtYTEwNi0yNWU3ZjQwODI0MGFscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNopAc5pqXlLfwhnqTVI2OajgAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggQoITNl6DdZ0ddFPBV4ItoFWhSn/8lclM4ohZRByFUq2kZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaBujiufjulSIVm6i8Vofk5AAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCC7v9ftvafNAopVtm4WT2WNhbGR9CKLE7Io1aHjy+5giWRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBj/Zmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjkxMmNjODNjLTJiZDItNDlkNy05NzAxLWQ0OWEyODA0NTg2Ny9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjg5NDQ4MThhLWYxY2YtNDg1My05MGUzLTMzMjhlMmMyNjE3Y3JjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCBCghM2XoN1nR10U8FXgi2gVaFKf/yVyUziiFlEHIVSraJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggszHZoaZbjot8phqucSV4iy4VYZia6l06+UplFS82++WiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggK+4F7uYim+EN0jKRtVtwieICi96a2G8jHl0ldB1jFwV0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQKFK6H/SEdDKohoA1mGY8iCh62TJ9eKuuUt9iV7eIgGBcBiL/AwJWjmz0VS/gtzaxFEesvItspbXGfqZTpT7Ol8=</c2pa:manifest></metadata>
+  <style>
+    text { font-family: 'Courier New', Consolas, monospace; }
+    .title { fill:#64748B; font-size:12px; }
+    .ptitle { fill:#94A3B8; font-size:12px; font-weight:bold; }
+    .lbl { fill:#94A3B8; font-size:11px; }
+    .wire { stroke:#1E3A5F; stroke-width:1; fill:none; opacity:0.7; }
+    .flow { fill:none; stroke:#38BDF8; stroke-width:1.6; stroke-linecap:round; stroke-dasharray:0.18 3; opacity:0; animation:flow 6s linear infinite; }
+    .node { fill:#0F172A; stroke:#38BDF8; stroke-width:2; transform-box:fill-box; transform-origin:center; animation:node 6s ease-out infinite; }
+    @keyframes flow { 0% {stroke-dashoffset:0; opacity:1;} 25% {stroke-dashoffset:-1; opacity:1;} 26% {stroke-dashoffset:-1; opacity:0;} 100% {stroke-dashoffset:-1; opacity:0;} }
+    @keyframes node { 0% {fill:#0F172A; transform:scale(1);} 4% {fill:#06B6D4; transform:scale(1.4);} 16% {fill:#2563EB; transform:scale(1);} 40% {fill:#0F172A; transform:scale(1);} 100% {fill:#0F172A; transform:scale(1);} }
+  </style>
+
+  <rect x="1" y="1" width="898" height="308" rx="14" fill="#0F172A" stroke="#1E293B"/>
+  <circle cx="22" cy="24" r="5" fill="#F87171"/>
+  <circle cx="40" cy="24" r="5" fill="#FBBF24"/>
+  <circle cx="58" cy="24" r="5" fill="#34D399"/>
+  <text x="80" y="28" class="title">neural-net ~ forward pass</text>
+
+  <rect x="20" y="48" width="860" height="248" rx="10" fill="#111C33" stroke="#1E3A5F"/>
+
+  <g>
+    <path d="M170 97.0 L370 85.0" class="wire"/>
+    <path d="M170 97.0 L370 117.0" class="wire"/>
+    <path d="M170 97.0 L370 149.0" class="wire"/>
+    <path d="M170 97.0 L370 181.0" class="wire"/>
+    <path d="M170 97.0 L370 213.0" class="wire"/>
+    <path d="M170 97.0 L370 245.0" class="wire"/>
+    <path d="M170 131.0 L370 85.0" class="wire"/>
+    <path d="M170 131.0 L370 117.0" class="wire"/>
+    <path d="M170 131.0 L370 149.0" class="wire"/>
+    <path d="M170 131.0 L370 181.0" class="wire"/>
+    <path d="M170 131.0 L370 213.0" class="wire"/>
+    <path d="M170 131.0 L370 245.0" class="wire"/>
+    <path d="M170 165.0 L370 85.0" class="wire"/>
+    <path d="M170 165.0 L370 117.0" class="wire"/>
+    <path d="M170 165.0 L370 149.0" class="wire"/>
+    <path d="M170 165.0 L370 181.0" class="wire"/>
+    <path d="M170 165.0 L370 213.0" class="wire"/>
+    <path d="M170 165.0 L370 245.0" class="wire"/>
+    <path d="M170 199.0 L370 85.0" class="wire"/>
+    <path d="M170 199.0 L370 117.0" class="wire"/>
+    <path d="M170 199.0 L370 149.0" class="wire"/>
+    <path d="M170 199.0 L370 181.0" class="wire"/>
+    <path d="M170 199.0 L370 213.0" class="wire"/>
+    <path d="M170 199.0 L370 245.0" class="wire"/>
+    <path d="M170 233.0 L370 85.0" class="wire"/>
+    <path d="M170 233.0 L370 117.0" class="wire"/>
+    <path d="M170 233.0 L370 149.0" class="wire"/>
+    <path d="M170 233.0 L370 181.0" class="wire"/>
+    <path d="M170 233.0 L370 213.0" class="wire"/>
+    <path d="M170 233.0 L370 245.0" class="wire"/>
+    <path d="M370 85.0 L550 85.0" class="wire"/>
+    <path d="M370 85.0 L550 117.0" class="wire"/>
+    <path d="M370 85.0 L550 149.0" class="wire"/>
+    <path d="M370 85.0 L550 181.0" class="wire"/>
+    <path d="M370 85.0 L550 213.0" class="wire"/>
+    <path d="M370 85.0 L550 245.0" class="wire"/>
+    <path d="M370 117.0 L550 85.0" class="wire"/>
+    <path d="M370 117.0 L550 117.0" class="wire"/>
+    <path d="M370 117.0 L550 149.0" class="wire"/>
+    <path d="M370 117.0 L550 181.0" class="wire"/>
+    <path d="M370 117.0 L550 213.0" class="wire"/>
+    <path d="M370 117.0 L550 245.0" class="wire"/>
+    <path d="M370 149.0 L550 85.0" class="wire"/>
+    <path d="M370 149.0 L550 117.0" class="wire"/>
+    <path d="M370 149.0 L550 149.0" class="wire"/>
+    <path d="M370 149.0 L550 181.0" class="wire"/>
+    <path d="M370 149.0 L550 213.0" class="wire"/>
+    <path d="M370 149.0 L550 245.0" class="wire"/>
+    <path d="M370 181.0 L550 85.0" class="wire"/>
+    <path d="M370 181.0 L550 117.0" class="wire"/>
+    <path d="M370 181.0 L550 149.0" class="wire"/>
+    <path d="M370 181.0 L550 181.0" class="wire"/>
+    <path d="M370 181.0 L550 213.0" class="wire"/>
+    <path d="M370 181.0 L550 245.0" class="wire"/>
+    <path d="M370 213.0 L550 85.0" class="wire"/>
+    <path d="M370 213.0 L550 117.0" class="wire"/>
+    <path d="M370 213.0 L550 149.0" class="wire"/>
+    <path d="M370 213.0 L550 181.0" class="wire"/>
+    <path d="M370 213.0 L550 213.0" class="wire"/>
+    <path d="M370 213.0 L550 245.0" class="wire"/>
+    <path d="M370 245.0 L550 85.0" class="wire"/>
+    <path d="M370 245.0 L550 117.0" class="wire"/>
+    <path d="M370 245.0 L550 149.0" class="wire"/>
+    <path d="M370 245.0 L550 181.0" class="wire"/>
+    <path d="M370 245.0 L550 213.0" class="wire"/>
+    <path d="M370 245.0 L550 245.0" class="wire"/>
+    <path d="M550 85.0 L730 113.0" class="wire"/>
+    <path d="M550 85.0 L730 165.0" class="wire"/>
+    <path d="M550 85.0 L730 217.0" class="wire"/>
+    <path d="M550 117.0 L730 113.0" class="wire"/>
+    <path d="M550 117.0 L730 165.0" class="wire"/>
+    <path d="M550 117.0 L730 217.0" class="wire"/>
+    <path d="M550 149.0 L730 113.0" class="wire"/>
+    <path d="M550 149.0 L730 165.0" class="wire"/>
+    <path d="M550 149.0 L730 217.0" class="wire"/>
+    <path d="M550 181.0 L730 113.0" class="wire"/>
+    <path d="M550 181.0 L730 165.0" class="wire"/>
+    <path d="M550 181.0 L730 217.0" class="wire"/>
+    <path d="M550 213.0 L730 113.0" class="wire"/>
+    <path d="M550 213.0 L730 165.0" class="wire"/>
+    <path d="M550 213.0 L730 217.0" class="wire"/>
+    <path d="M550 245.0 L730 113.0" class="wire"/>
+    <path d="M550 245.0 L730 165.0" class="wire"/>
+    <path d="M550 245.0 L730 217.0" class="wire"/>
+  </g>
+  <g>
+    <path d="M170 97.0 L370 85.0" pathLength="1" class="flow" style="animation-delay:0.0s"/>
+    <path d="M170 97.0 L370 117.0" pathLength="1" class="flow" style="animation-delay:0.0s"/>
+    <path d="M170 97.0 L370 149.0" pathLength="1" class="flow" style="animation-delay:0.0s"/>
+    <path d="M170 97.0 L370 181.0" pathLength="1" class="flow" style="animation-delay:0.0s"/>
+    <path d="M170 97.0 L370 213.0" pathLength="1" class="flow" style="animation-delay:0.0s"/>
+    <path d="M170 97.0 L370 245.0" pathLength="1" class="flow" style="animation-delay:0.0s"/>
+    <path d="M170 131.0 L370 85.0" pathLength="1" class="flow" style="animation-delay:0.0s"/>
+    <path d="M170 131.0 L370 117.0" pathLength="1" class="flow" style="animation-delay:0.0s"/>
+    <path d="M170 131.0 L370 149.0" pathLength="1" class="flow" style="animation-delay:0.0s"/>
+    <path d="M170 131.0 L370 181.0" pathLength="1" class="flow" style="animation-delay:0.0s"/>
+    <path d="M170 131.0 L370 213.0" pathLength="1" class="flow" style="animation-delay:0.0s"/>
+    <path d="M170 131.0 L370 245.0" pathLength="1" class="flow" style="animation-delay:0.0s"/>
+    <path d="M170 165.0 L370 85.0" pathLength="1" class="flow" style="animation-delay:0.0s"/>
+    <path d="M170 165.0 L370 117.0" pathLength="1" class="flow" style="animation-delay:0.0s"/>
+    <path d="M170 165.0 L370 149.0" pathLength="1" class="flow" style="animation-delay:0.0s"/>
+    <path d="M170 165.0 L370 181.0" pathLength="1" class="flow" style="animation-delay:0.0s"/>
+    <path d="M170 165.0 L370 213.0" pathLength="1" class="flow" style="animation-delay:0.0s"/>
+    <path d="M170 165.0 L370 245.0" pathLength="1" class="flow" style="animation-delay:0.0s"/>
+    <path d="M170 199.0 L370 85.0" pathLength="1" class="flow" style="animation-delay:0.0s"/>
+    <path d="M170 199.0 L370 117.0" pathLength="1" class="flow" style="animation-delay:0.0s"/>
+    <path d="M170 199.0 L370 149.0" pathLength="1" class="flow" style="animation-delay:0.0s"/>
+    <path d="M170 199.0 L370 181.0" pathLength="1" class="flow" style="animation-delay:0.0s"/>
+    <path d="M170 199.0 L370 213.0" pathLength="1" class="flow" style="animation-delay:0.0s"/>
+    <path d="M170 199.0 L370 245.0" pathLength="1" class="flow" style="animation-delay:0.0s"/>
+    <path d="M170 233.0 L370 85.0" pathLength="1" class="flow" style="animation-delay:0.0s"/>
+    <path d="M170 233.0 L370 117.0" pathLength="1" class="flow" style="animation-delay:0.0s"/>
+    <path d="M170 233.0 L370 149.0" pathLength="1" class="flow" style="animation-delay:0.0s"/>
+    <path d="M170 233.0 L370 181.0" pathLength="1" class="flow" style="animation-delay:0.0s"/>
+    <path d="M170 233.0 L370 213.0" pathLength="1" class="flow" style="animation-delay:0.0s"/>
+    <path d="M170 233.0 L370 245.0" pathLength="1" class="flow" style="animation-delay:0.0s"/>
+    <path d="M370 85.0 L550 85.0" pathLength="1" class="flow" style="animation-delay:1.5s"/>
+    <path d="M370 85.0 L550 117.0" pathLength="1" class="flow" style="animation-delay:1.5s"/>
+    <path d="M370 85.0 L550 149.0" pathLength="1" class="flow" style="animation-delay:1.5s"/>
+    <path d="M370 85.0 L550 181.0" pathLength="1" class="flow" style="animation-delay:1.5s"/>
+    <path d="M370 85.0 L550 213.0" pathLength="1" class="flow" style="animation-delay:1.5s"/>
+    <path d="M370 85.0 L550 245.0" pathLength="1" class="flow" style="animation-delay:1.5s"/>
+    <path d="M370 117.0 L550 85.0" pathLength="1" class="flow" style="animation-delay:1.5s"/>
+    <path d="M370 117.0 L550 117.0" pathLength="1" class="flow" style="animation-delay:1.5s"/>
+    <path d="M370 117.0 L550 149.0" pathLength="1" class="flow" style="animation-delay:1.5s"/>
+    <path d="M370 117.0 L550 181.0" pathLength="1" class="flow" style="animation-delay:1.5s"/>
+    <path d="M370 117.0 L550 213.0" pathLength="1" class="flow" style="animation-delay:1.5s"/>
+    <path d="M370 117.0 L550 245.0" pathLength="1" class="flow" style="animation-delay:1.5s"/>
+    <path d="M370 149.0 L550 85.0" pathLength="1" class="flow" style="animation-delay:1.5s"/>
+    <path d="M370 149.0 L550 117.0" pathLength="1" class="flow" style="animation-delay:1.5s"/>
+    <path d="M370 149.0 L550 149.0" pathLength="1" class="flow" style="animation-delay:1.5s"/>
+    <path d="M370 149.0 L550 181.0" pathLength="1" class="flow" style="animation-delay:1.5s"/>
+    <path d="M370 149.0 L550 213.0" pathLength="1" class="flow" style="animation-delay:1.5s"/>
+    <path d="M370 149.0 L550 245.0" pathLength="1" class="flow" style="animation-delay:1.5s"/>
+    <path d="M370 181.0 L550 85.0" pathLength="1" class="flow" style="animation-delay:1.5s"/>
+    <path d="M370 181.0 L550 117.0" pathLength="1" class="flow" style="animation-delay:1.5s"/>
+    <path d="M370 181.0 L550 149.0" pathLength="1" class="flow" style="animation-delay:1.5s"/>
+    <path d="M370 181.0 L550 181.0" pathLength="1" class="flow" style="animation-delay:1.5s"/>
+    <path d="M370 181.0 L550 213.0" pathLength="1" class="flow" style="animation-delay:1.5s"/>
+    <path d="M370 181.0 L550 245.0" pathLength="1" class="flow" style="animation-delay:1.5s"/>
+    <path d="M370 213.0 L550 85.0" pathLength="1" class="flow" style="animation-delay:1.5s"/>
+    <path d="M370 213.0 L550 117.0" pathLength="1" class="flow" style="animation-delay:1.5s"/>
+    <path d="M370 213.0 L550 149.0" pathLength="1" class="flow" style="animation-delay:1.5s"/>
+    <path d="M370 213.0 L550 181.0" pathLength="1" class="flow" style="animation-delay:1.5s"/>
+    <path d="M370 213.0 L550 213.0" pathLength="1" class="flow" style="animation-delay:1.5s"/>
+    <path d="M370 213.0 L550 245.0" pathLength="1" class="flow" style="animation-delay:1.5s"/>
+    <path d="M370 245.0 L550 85.0" pathLength="1" class="flow" style="animation-delay:1.5s"/>
+    <path d="M370 245.0 L550 117.0" pathLength="1" class="flow" style="animation-delay:1.5s"/>
+    <path d="M370 245.0 L550 149.0" pathLength="1" class="flow" style="animation-delay:1.5s"/>
+    <path d="M370 245.0 L550 181.0" pathLength="1" class="flow" style="animation-delay:1.5s"/>
+    <path d="M370 245.0 L550 213.0" pathLength="1" class="flow" style="animation-delay:1.5s"/>
+    <path d="M370 245.0 L550 245.0" pathLength="1" class="flow" style="animation-delay:1.5s"/>
+    <path d="M550 85.0 L730 113.0" pathLength="1" class="flow" style="animation-delay:3.0s"/>
+    <path d="M550 85.0 L730 165.0" pathLength="1" class="flow" style="animation-delay:3.0s"/>
+    <path d="M550 85.0 L730 217.0" pathLength="1" class="flow" style="animation-delay:3.0s"/>
+    <path d="M550 117.0 L730 113.0" pathLength="1" class="flow" style="animation-delay:3.0s"/>
+    <path d="M550 117.0 L730 165.0" pathLength="1" class="flow" style="animation-delay:3.0s"/>
+    <path d="M550 117.0 L730 217.0" pathLength="1" class="flow" style="animation-delay:3.0s"/>
+    <path d="M550 149.0 L730 113.0" pathLength="1" class="flow" style="animation-delay:3.0s"/>
+    <path d="M550 149.0 L730 165.0" pathLength="1" class="flow" style="animation-delay:3.0s"/>
+    <path d="M550 149.0 L730 217.0" pathLength="1" class="flow" style="animation-delay:3.0s"/>
+    <path d="M550 181.0 L730 113.0" pathLength="1" class="flow" style="animation-delay:3.0s"/>
+    <path d="M550 181.0 L730 165.0" pathLength="1" class="flow" style="animation-delay:3.0s"/>
+    <path d="M550 181.0 L730 217.0" pathLength="1" class="flow" style="animation-delay:3.0s"/>
+    <path d="M550 213.0 L730 113.0" pathLength="1" class="flow" style="animation-delay:3.0s"/>
+    <path d="M550 213.0 L730 165.0" pathLength="1" class="flow" style="animation-delay:3.0s"/>
+    <path d="M550 213.0 L730 217.0" pathLength="1" class="flow" style="animation-delay:3.0s"/>
+    <path d="M550 245.0 L730 113.0" pathLength="1" class="flow" style="animation-delay:3.0s"/>
+    <path d="M550 245.0 L730 165.0" pathLength="1" class="flow" style="animation-delay:3.0s"/>
+    <path d="M550 245.0 L730 217.0" pathLength="1" class="flow" style="animation-delay:3.0s"/>
+  </g>
+  <g>
+    <circle class="node" cx="170" cy="97.0" r="8" style="animation-delay:0.0s"/>
+    <circle class="node" cx="170" cy="131.0" r="8" style="animation-delay:0.0s"/>
+    <circle class="node" cx="170" cy="165.0" r="8" style="animation-delay:0.0s"/>
+    <circle class="node" cx="170" cy="199.0" r="8" style="animation-delay:0.0s"/>
+    <circle class="node" cx="170" cy="233.0" r="8" style="animation-delay:0.0s"/>
+    <circle class="node" cx="370" cy="85.0" r="8" style="animation-delay:1.5s"/>
+    <circle class="node" cx="370" cy="117.0" r="8" style="animation-delay:1.5s"/>
+    <circle class="node" cx="370" cy="149.0" r="8" style="animation-delay:1.5s"/>
+    <circle class="node" cx="370" cy="181.0" r="8" style="animation-delay:1.5s"/>
+    <circle class="node" cx="370" cy="213.0" r="8" style="animation-delay:1.5s"/>
+    <circle class="node" cx="370" cy="245.0" r="8" style="animation-delay:1.5s"/>
+    <circle class="node" cx="550" cy="85.0" r="8" style="animation-delay:3.0s"/>
+    <circle class="node" cx="550" cy="117.0" r="8" style="animation-delay:3.0s"/>
+    <circle class="node" cx="550" cy="149.0" r="8" style="animation-delay:3.0s"/>
+    <circle class="node" cx="550" cy="181.0" r="8" style="animation-delay:3.0s"/>
+    <circle class="node" cx="550" cy="213.0" r="8" style="animation-delay:3.0s"/>
+    <circle class="node" cx="550" cy="245.0" r="8" style="animation-delay:3.0s"/>
+    <circle class="node" cx="730" cy="113.0" r="8" style="animation-delay:4.5s"/>
+    <circle class="node" cx="730" cy="165.0" r="8" style="animation-delay:4.5s"/>
+    <circle class="node" cx="730" cy="217.0" r="8" style="animation-delay:4.5s"/>
+  </g>
+
+  <text x="146" y="101.0" text-anchor="end" class="lbl">x1</text>
+  <text x="146" y="135.0" text-anchor="end" class="lbl">x2</text>
+  <text x="146" y="169.0" text-anchor="end" class="lbl">x3</text>
+  <text x="146" y="203.0" text-anchor="end" class="lbl">x4</text>
+  <text x="146" y="237.0" text-anchor="end" class="lbl">x5</text>
+  <text x="754" y="117.0" class="lbl">p(A)</text>
+  <text x="754" y="169.0" class="lbl">p(B)</text>
+  <text x="754" y="221.0" class="lbl">p(C)</text>
+  <text x="170" y="283" text-anchor="middle" class="ptitle">input features</text>
+  <text x="370" y="283" text-anchor="middle" class="ptitle">hidden layer 1</text>
+  <text x="550" y="283" text-anchor="middle" class="ptitle">hidden layer 2</text>
+  <text x="730" y="283" text-anchor="middle" class="ptitle">prediction</text>
+</svg>
