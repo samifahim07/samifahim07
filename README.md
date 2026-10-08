@@ -60,6 +60,14 @@ I've explored machine learning across sports, finance, customer analytics, healt
 
 </div>
 
+## Inside the Network
+
+<div align="center">
+
+<img src="assets/neural-network.svg" width="100%" alt="Animated neural network showing a forward pass from input features to prediction" />
+
+</div>
+
 ## How I Think About AI Systems
 
 <!-- Native GitHub Mermaid diagram. No analytics API, token, or refresh needed. -->
