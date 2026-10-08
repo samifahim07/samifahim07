@@ -60,30 +60,7 @@ I've explored machine learning across sports, finance, customer analytics, healt
 
 </div>
 
-## How I Think About AI Systems
 
-<!-- Native GitHub Mermaid diagram. No analytics API, token, or refresh needed. -->
-
-```mermaid
-flowchart TD
-    A[Real-world question] --> B[Data understanding]
-    B --> C[Quality checks & EDA]
-    C --> D[Leakage-safe split]
-    D --> E[Feature engineering & pipelines]
-    E --> F[Baselines & model comparison]
-    F --> G[Evaluation & error analysis]
-    G --> H[Explainability: SHAP / LIME]
-    H --> I[API or interactive UI]
-    I --> J[Deployment]
-    J --> K[Monitor, learn, improve]
-
-    classDef question fill:#0f172a,color:#ffffff,stroke:#38bdf8,stroke-width:2px;
-    classDef process fill:#172554,color:#ffffff,stroke:#60a5fa;
-    classDef output fill:#164e63,color:#ffffff,stroke:#22d3ee,stroke-width:2px;
-    class A question;
-    class B,C,D,E,F,G,H process;
-    class I,J,K output;
-```
 
 ## Problems I Like Solving
 
