@@ -2,6 +2,10 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=220&section=header&text=Fahim%20Abrar%20Chowdhury&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=37&desc=Building%20Intelligent%20Systems%20From%20Real-World%20Data&descAlignY=58&descSize=17" alt="Fahim Abrar Chowdhury" />
 
+<a href="https://github.com/samifahim07">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=760&height=50&lines=Machine+Learning+%C2%B7+Deep+Learning;Explainable+AI+with+SHAP+%26+LIME;From+Notebook+to+Deployed+Application;Build+it.+Validate+it.+Explain+it.+Ship+it." alt="Typing animation" />
+</a>
+
 ### Machine Learning · Deep Learning · Explainable AI · AI Engineering
 
 **From raw data to decisions people can actually use.**
@@ -47,6 +51,19 @@ I've explored machine learning across sports, finance, customer analytics, healt
 </div>
 
 **Additional tools:** `XGBoost` · `LightGBM` · `CatBoost` · `Streamlit` · `SHAP` · `LIME` · `Matplotlib` · `Seaborn` · `SQL` · `REST APIs`
+
+## GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=samifahim07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=38BDF8&icon_color=06B6D4" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samifahim07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=38BDF8" alt="Top languages" />
+
+<img src="https://streak-stats.demolab.com?user=samifahim07&theme=tokyonight&hide_border=true&background=0F172A" alt="Contribution streak" />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=samifahim07&theme=tokyo-night&hide_border=true&bg_color=0F172A&color=38BDF8&line=2563EB&point=FFFFFF&area=true&area_color=2563EB" alt="Contribution activity graph" />
+
+</div>
 
 ## How I Think About AI Systems
 
@@ -144,6 +161,8 @@ Open to **AI/ML internships, research collaborations, open-source learning, and 
 ---
 
 *Curiosity → Experiments → Understanding → Impact*
+
+<img src="https://raw.githubusercontent.com/samifahim07/samifahim07/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=100&section=footer" alt="Footer wave" />
 
