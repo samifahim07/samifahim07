@@ -12,7 +12,7 @@
 
 ---
 
-## 👋 The Person Behind the Models
+## The Person Behind the Models
 
 Hey, I'm **Fahim** — a Computer Science undergraduate at **East West University, Bangladesh**. I love the space where **data, intelligent algorithms, and useful software** meet.
 
@@ -22,7 +22,7 @@ I've explored machine learning across sports, finance, customer analytics, healt
 >
 > *"Every dataset has a story. I just help it speak."*
 
-## 🧰 Toolkit
+## Toolkit
 
 <div align="center">
 
@@ -48,7 +48,7 @@ I've explored machine learning across sports, finance, customer analytics, healt
 
 **Additional tools:** `XGBoost` · `LightGBM` · `CatBoost` · `Streamlit` · `SHAP` · `LIME` · `Matplotlib` · `Seaborn` · `SQL` · `REST APIs`
 
-## 🧠 How I Think About AI Systems
+## How I Think About AI Systems
 
 <!-- Native GitHub Mermaid diagram. No analytics API, token, or refresh needed. -->
 
@@ -73,7 +73,7 @@ flowchart TD
     class I,J,K output;
 ```
 
-## 🎯 Problems I Like Solving
+## Problems I Like Solving
 
 | Area | The questions that interest me |
 |:--|:--|
@@ -84,7 +84,7 @@ flowchart TD
 | **Responsible ML Engineering** | Is the model evaluated fairly, reproducibly, and without leakage? |
 | **Generative & Agentic AI** | How can LLMs work with tools and structured knowledge? |
 
-## ⚙️ Engineering Principles
+## Engineering Principles
 
 ```text
 [01] PROBLEM FIRST       A useful question matters more than a fancy model.
@@ -95,7 +95,7 @@ flowchart TD
 [06] KEEP ITERATING      Every experiment should teach something.
 ```
 
-## 🔬 Exploration Lab
+## Exploration Lab
 
 <details>
 <summary><b>Large Language Models & Agentic AI</b></summary>
@@ -133,7 +133,7 @@ Learning how to move beyond notebooks using Flask, FastAPI, Docker, GitHub Actio
 
 </details>
 
-## 🤝 Let's Build Something Useful
+## Let's Build Something Useful
 
 Open to **AI/ML internships, research collaborations, open-source learning, and practical AI products**.
 
