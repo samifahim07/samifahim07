@@ -42,53 +42,43 @@ My goal is to develop AI systems that are not only technically capable but also 
 
 <div align="center">
 
-### Programming Languages
+**Programming Languages**
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css&theme=dark" alt="Python, C, C++, Java, HTML, CSS" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css&theme=dark" alt="Programming Languages" />
 
-### Data Science, Machine Learning & Deep Learning
+**Data Science, Machine Learning & Deep Learning**
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark" alt="PyTorch, TensorFlow, Scikit-learn, OpenCV" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark" alt="ML and Deep Learning Frameworks" />
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,scipy,matplotlib,seaborn,jupyter,keras,torchvision,xgboost,lightgbm,catboost&theme=dark" alt="Pandas, NumPy, SciPy, Matplotlib, Seaborn, Jupyter, Keras, Torchvision, XGBoost, LightGBM, CatBoost" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,scipy,matplotlib,seaborn,jupyter,keras,torchvision,xgboost,lightgbm,catboost&theme=dark" alt="Data Science and ML Libraries" />
 
-### LLMs, Generative AI & NLP
+**LLMs, Generative AI & NLP**
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=huggingface,transformers,langchain,llamaindex&theme=dark" alt="Hugging Face, Transformers, LangChain, LlamaIndex" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=huggingface,langchain,llama,ollama&theme=dark" alt="LLMs and Generative AI" />
 
-`Large Language Models` · `Prompt Engineering` · `Embeddings` · `Vector Search` · `RAG` · `NLP` · `Model Fine-Tuning`
+**AI Automation & Workflow Engineering**
 
-### AI Automation & Workflow Engineering
+<img src="https://go-skill-icons.vercel.app/api/icons?i=n8n&theme=dark" alt="AI Automation" />
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=n8n&theme=dark" alt="n8n" />
+**Agentic AI & Intelligent Agents**
 
-`n8n` · `REST APIs` · `Webhooks` · `Workflow Automation` · `API Integration` · `AI-Powered Workflows`
+<img src="https://go-skill-icons.vercel.app/api/icons?i=langchain,openai&theme=dark" alt="Agentic AI" />
 
-### Agentic AI & Intelligent Agents
+**Backend Development & APIs**
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=langgraph&theme=dark" alt="LangGraph" />
+<img src="https://skillicons.dev/icons?i=fastapi,flask,django&theme=dark" alt="Backend Frameworks" />
 
-`AI Agents` · `Tool Calling` · `Function Calling` · `Multi-Agent Systems` · `Agent Workflows` · `RAG-Based Agents` · `Autonomous Task Execution`
+<img src="https://go-skill-icons.vercel.app/api/icons?i=sqlalchemy,pydantic&theme=dark" alt="Backend Libraries" />
 
-### Backend Development & APIs
+**Databases & Data Storage**
 
-<img src="https://skillicons.dev/icons?i=fastapi,flask,django&theme=dark" alt="FastAPI, Flask, Django" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite&theme=dark" alt="Databases" />
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=sqlalchemy,pydantic&theme=dark" alt="SQLAlchemy, Pydantic" />
+**Development, Deployment & Cloud**
 
-### Databases & Data Storage
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite&theme=dark" alt="PostgreSQL, MySQL, SQLite" />
-
-### Development, Deployment & Cloud
-
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,linux,docker,aws&theme=dark" alt="Git, GitHub, GitHub Actions, VS Code, Linux, Docker, AWS" />
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,linux,docker,aws&theme=dark" alt="Development and Deployment Tools" />
 
 </div>
-
-**Additional Libraries & Utilities**
-
-`Imbalanced-learn` · `SciKeras` · `Pillow` · `Joblib` · `Uvicorn` · `Gunicorn` · `BeautifulSoup4` · `SQLAlchemy` · `Pydantic` · `Pickle`
 
 ---
 
@@ -241,9 +231,9 @@ Developing knowledge of Docker, cloud deployment, CI/CD, model serving, experime
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=samifahim07&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=samifahim07&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samifahim07&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samifahim07&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
 
 </div>
 
