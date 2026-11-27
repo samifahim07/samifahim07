@@ -99,51 +99,6 @@ My goal is to develop AI systems that are not only technically capable but also 
 
 ---
 
-## Selected Projects
-
-### 01. CROPVEYRA Intelligence
-
-**Semi-Supervised Plant Disease Recognition with Uncertainty-Aware Pseudo Labels**
-
-An AI-powered plant disease recognition system designed to identify crop diseases through image classification and crop-aware verification.
-
-- CNN-based disease recognition.
-- Semi-supervised learning and pseudo-labeling.
-- Crop verification and unknown-class handling.
-- Model evaluation and uncertainty-aware prediction.
-- FastAPI-based backend architecture.
-
-**Technologies:** Python · PyTorch · Torchvision · CNN · FastAPI · Pillow
-
-### 02. PROHORI
-
-**Intelligent Disaster Risk Monitoring & Early Warning System**
-
-A predictive intelligence project focused on disaster risk assessment and early warning through machine learning.
-
-- Flood risk classification.
-- Predictive modeling and evaluation.
-- Risk-level identification.
-- Data-driven decision support.
-
-**Technologies:** Python · Pandas · NumPy · Scikit-learn · Joblib
-
-### 03. SAMAIL
-
-**Your Inbox, Awakened.**
-
-An intelligent Gmail management platform designed to combine inbox intelligence, search, organization, and productivity features.
-
-- Gmail API integration architecture.
-- Google OAuth authentication.
-- Backend API development.
-- PostgreSQL-based data management.
-- Intelligent inbox management workflows.
-
-**Technologies:** Python · FastAPI · PostgreSQL · SQLAlchemy · React · Vite
-
----
-
 ## My Machine Learning Workflow
 
 I approach machine learning projects through a structured development process.
@@ -224,18 +179,6 @@ Exploring modern neural network architectures, representation learning, contrast
 Developing knowledge of Docker, cloud deployment, CI/CD, model serving, experiment tracking, and production ML workflows.
 
 </details>
-
----
-
-## GitHub Statistics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=samifahim07&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samifahim07&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
-
-</div>
 
 ---
 
