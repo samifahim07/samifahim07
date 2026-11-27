@@ -2,9 +2,9 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=220&section=header&text=Fahim%20Abrar%20Chowdhury&fontSize=38&fontColor=FFFFFF&fontAlignY=37&desc=Building%20Intelligent%20Systems%20From%20Real-World%20Data&descAlignY=58&descSize=17" alt="Fahim Abrar Chowdhury" />
 
-### Machine Learning Engineer · Data Science · Deep Learning · AI Engineering
+### Machine Learning Engineer · Data Science · AI Engineering
 
-**Turning data into intelligence and intelligence into useful software.**
+**Turning real-world data into intelligent and useful software.**
 
 [GitHub](https://github.com/samifahim07) · [Kaggle](https://www.kaggle.com/fahimabrarsami) · [Hugging Face](https://huggingface.co/fahimlabs) · [Email](mailto:asamifahim007@gmail.com)
 
@@ -16,19 +16,21 @@
 
 Hey, I'm **Fahim Abrar Chowdhury**, a Computer Science undergraduate at **East West University, Bangladesh**.
 
-I'm passionate about building intelligent systems at the intersection of **Machine Learning, Data Science, Deep Learning, and Software Engineering**.
+I'm passionate about building intelligent systems at the intersection of **Data Science, Machine Learning, Deep Learning, Generative AI, and Software Engineering**.
 
 My journey involves exploring real-world datasets, developing predictive models, experimenting with neural networks, and transforming machine learning solutions into practical applications.
 
-I enjoy working across the complete ML development lifecycle:
+I enjoy working across the complete AI development lifecycle:
 
 - Data collection, preprocessing, and exploratory data analysis.
-- Feature engineering and statistical analysis.
+- Statistical analysis and feature engineering.
 - Machine learning model development and optimization.
 - Deep learning and computer vision.
 - Model evaluation, validation, and error analysis.
+- Large Language Models and Retrieval-Augmented Generation.
+- AI automation and agentic workflows.
 - Backend API development and application integration.
-- Experimentation, reproducibility, and deployment workflows.
+- Model deployment and production-oriented AI engineering.
 
 My goal is to develop AI systems that are not only technically capable but also reliable, understandable, and useful in real-world environments.
 
@@ -42,47 +44,51 @@ My goal is to develop AI systems that are not only technically capable but also 
 
 ### Programming Languages
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css&theme=dark" alt="Programming languages" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css&theme=dark" alt="Python, C, C++, Java, HTML, CSS" />
 
-### Data Science & Data Analysis
+### Data Science, Machine Learning & Deep Learning
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,scipy,matplotlib,seaborn,jupyter&theme=dark" alt="Data science libraries" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark" alt="PyTorch, TensorFlow, Scikit-learn, OpenCV" />
 
-### Machine Learning & AI
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,scipy,matplotlib,seaborn,jupyter,keras,torchvision,xgboost,lightgbm,catboost&theme=dark" alt="Pandas, NumPy, SciPy, Matplotlib, Seaborn, Jupyter, Keras, Torchvision, XGBoost, LightGBM, CatBoost" />
 
-<img src="https://skillicons.dev/icons?i=sklearn,xgboost&theme=dark" alt="Machine learning technologies" />
+### LLMs, Generative AI & NLP
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=lightgbm,catboost,imbalancedlearn&theme=dark" alt="Machine learning libraries" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=huggingface,transformers,langchain,llamaindex&theme=dark" alt="Hugging Face, Transformers, LangChain, LlamaIndex" />
 
-### Deep Learning & Computer Vision
+`Large Language Models` · `Prompt Engineering` · `Embeddings` · `Vector Search` · `RAG` · `NLP` · `Model Fine-Tuning`
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" alt="Deep learning and computer vision" />
+### AI Automation & Workflow Engineering
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=keras,torchvision,pillow&theme=dark" alt="Deep learning libraries" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=n8n&theme=dark" alt="n8n" />
+
+`n8n` · `REST APIs` · `Webhooks` · `Workflow Automation` · `API Integration` · `AI-Powered Workflows`
+
+### Agentic AI & Intelligent Agents
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=langgraph&theme=dark" alt="LangGraph" />
+
+`AI Agents` · `Tool Calling` · `Function Calling` · `Multi-Agent Systems` · `Agent Workflows` · `RAG-Based Agents` · `Autonomous Task Execution`
 
 ### Backend Development & APIs
 
-<img src="https://skillicons.dev/icons?i=fastapi,flask,django&theme=dark" alt="Backend frameworks" />
+<img src="https://skillicons.dev/icons?i=fastapi,flask,django&theme=dark" alt="FastAPI, Flask, Django" />
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=pydantic,sqlalchemy,uvicorn&theme=dark" alt="Backend libraries" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=sqlalchemy,pydantic&theme=dark" alt="SQLAlchemy, Pydantic" />
 
 ### Databases & Data Storage
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite&theme=dark" alt="Database technologies" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite&theme=dark" alt="PostgreSQL, MySQL, SQLite" />
 
-### Development Tools & Platforms
+### Development, Deployment & Cloud
 
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,linux,docker,aws&theme=dark" alt="Development tools and platforms" />
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,linux,docker,aws&theme=dark" alt="Git, GitHub, GitHub Actions, VS Code, Linux, Docker, AWS" />
 
 </div>
 
-**Additional Python Libraries & Utilities**
+**Additional Libraries & Utilities**
 
-`Joblib` · `Pickle` · `Pillow` · `Pathlib` · `Pydantic` · `SQLAlchemy` · `Python-Multipart` · `Python-JOSE` · `Passlib`
-
-**ML & AI Concepts**
-
-`Supervised Learning` · `Unsupervised Learning` · `Semi-Supervised Learning` · `Transfer Learning` · `CNN` · `Classification` · `Regression` · `Hyperparameter Tuning` · `Model Evaluation` · `Feature Engineering` · `Cross-Validation` · `Uncertainty-Aware Learning`
+`Imbalanced-learn` · `SciKeras` · `Pillow` · `Joblib` · `Uvicorn` · `Gunicorn` · `BeautifulSoup4` · `SQLAlchemy` · `Pydantic` · `Pickle`
 
 ---
 
@@ -94,9 +100,11 @@ My goal is to develop AI systems that are not only technically capable but also 
 | **Machine Learning** | Predictive modeling, feature engineering, model selection, and optimization |
 | **Deep Learning** | Neural networks, CNN architectures, transfer learning, and representation learning |
 | **Computer Vision** | Image classification, visual recognition, and intelligent image analysis |
-| **Explainable AI** | Understanding model behavior, prediction explanations, and feature importance |
-| **Generative AI** | Large Language Models, embeddings, RAG, and AI-powered workflows |
-| **AI Engineering** | Building APIs, integrating models, and developing practical AI applications |
+| **Explainable AI** | Model interpretability, prediction explanations, and feature importance |
+| **Generative AI** | LLMs, embeddings, RAG, and generative applications |
+| **AI Automation** | Intelligent workflows, API integrations, and automated processes |
+| **Agentic AI** | Autonomous agents, tool calling, multi-agent systems, and reasoning workflows |
+| **AI Engineering** | Model integration, API development, and practical AI applications |
 | **MLOps** | Reproducible experiments, model deployment, monitoring, and lifecycle management |
 
 ---
@@ -193,6 +201,20 @@ Exploring transformer architectures, embeddings, Hugging Face, prompt engineerin
 </details>
 
 <details>
+<summary><b>AI Automation & Workflow Engineering</b></summary>
+
+Exploring n8n, API integrations, webhooks, automated workflows, and connecting AI models with external services.
+
+</details>
+
+<details>
+<summary><b>Agentic AI & Multi-Agent Systems</b></summary>
+
+Exploring intelligent agents, LangGraph, tool calling, function calling, agent orchestration, and autonomous task execution.
+
+</details>
+
+<details>
 <summary><b>Explainable & Responsible AI</b></summary>
 
 Exploring SHAP, LIME, model interpretability, calibration, uncertainty estimation, bias analysis, and reliable evaluation.
@@ -213,13 +235,6 @@ Developing knowledge of Docker, cloud deployment, CI/CD, model serving, experime
 
 </details>
 
-<details>
-<summary><b>AI Agents & Automation</b></summary>
-
-Exploring tool calling, intelligent agents, workflow automation, and integrating AI models with external services.
-
-</details>
-
 ---
 
 ## GitHub Statistics
@@ -236,7 +251,7 @@ Exploring tool calling, intelligent agents, workflow automation, and integrating
 
 ## Let's Connect
 
-I'm interested in connecting with people working on **Machine Learning, Data Science, AI Research, and practical software products**.
+I'm interested in connecting with people working on **Machine Learning, Data Science, AI Research, Generative AI, and practical software products**.
 
 Open to:
 
@@ -250,7 +265,7 @@ Open to:
 
 ### Let's turn ideas into intelligent systems.
 
-[GitHub Repositories](https://github.com/samifahim07?tab=repositories) · [Kaggle](https://www.kaggle.com/fahimabrarsami) · [Hugging Face](https://huggingface.co/fahimlabs) · [Email Me](mailto:asamifahim007@gmail.com)
+[Explore My Repositories](https://github.com/samifahim07?tab=repositories) · [Kaggle](https://www.kaggle.com/fahimabrarsami) · [Hugging Face](https://huggingface.co/fahimlabs) · [Get in Touch](mailto:asamifahim007@gmail.com)
 
 ---
 
